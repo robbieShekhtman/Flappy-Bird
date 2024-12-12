@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="flappyBirdProj:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/flappyBirdProj_jar</output-path>
+    <root id="archive" name="flappyBirdProj.jar">
+      <element id="module-output" name="flappyBirdProj" />
+    </root>
+  </artifact>
+</component>
